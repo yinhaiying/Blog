@@ -1,7 +1,7 @@
 # 博客系列文章
 
 ## 我的专栏
-* [掘金主页](https://juejin.im/post/6867416989665591304)
+* [掘金主页](https://juejin.im/user/2225067267210440/posts)
 * [知乎主页](https://www.zhihu.com/people/yinhaiying/posts)
 ## Javascript专精目录
 1、[函数柯里化](https://github.com/yinhaiying/Blog/issues/1) <br/>
