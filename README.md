@@ -12,3 +12,6 @@
 
 ## 工程化
 1、[实现一个简易的模块打包器](https://github.com/yinhaiying/Blog/issues/4)
+
+## 算法
+1、[归并排序](https://github.com/yinhaiying/Blog/issues/5)
