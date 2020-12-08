@@ -11,7 +11,8 @@
 ## Node专精目录
 
 ## 工程化
-1、[实现一个简易的模块打包器](https://github.com/yinhaiying/Blog/issues/4)
+1、[实现一个简易的模块打包器](https://github.com/yinhaiying/Blog/issues/4)<br/>
+2、[由浅及深实现一个自定义loader](https://github.com/yinhaiying/Blog/issues/6)
 
 ## 算法
 1、[归并排序](https://github.com/yinhaiying/Blog/issues/5)
